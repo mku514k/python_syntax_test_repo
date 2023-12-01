@@ -1,3 +1,3 @@
 print("This is indentation test 0")
-if (True):
+if True:
 	print("Test")
