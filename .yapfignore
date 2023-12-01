@@ -1,5 +1,1 @@
-# Ignore all files in the root directory
-*
-
-# Include files in the 'tests' subdirectory
-!tests/**
+# Empty for now
